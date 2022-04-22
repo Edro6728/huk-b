@@ -3,7 +3,7 @@
   "description": "simple deploy.",
   "env": {
     "administrador": {
-      "description": "ADMIN",
+      "description": "admd",
       "value": ""
     },
     "bot_token": {
